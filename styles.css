@@ -1,0 +1,41 @@
+.wrapper1 {
+   display: grid;
+   grid-template-columns: repeat(6, 1fr);
+   grid-template-rows: repeat(2, 100px);
+   text-align: center;
+}
+
+.wrapper1 div {
+	background-color: #ADD8E6;
+	margin: 8px;
+	color: #4682B4;
+	font-weight: bold;
+}
+
+.wrapper2 {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   grid-template-rows: repeat(3, 100px);
+   text-align: center;
+}
+
+.wrapper2 div {
+	background-color: #D8BFD8;
+	margin: 8px;
+	color: #800080;
+	font-weight: bold;
+}
+
+.wrapper3 {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: repeat(4, 100px);
+   text-align: center;
+}
+
+.wrapper3 div {
+	background-color: #FFA07A;
+	margin: 8px;
+	color: #FF4500;
+	font-weight: bold;
+}
