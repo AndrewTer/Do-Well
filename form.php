@@ -3,7 +3,7 @@ echo "
 	<html>
 		<head>
 			<script src='jquery-1.7.1.min.js'></script>
-			<script src='ajax.js'></script>
+			<script src='script.js'></script>
 		</head>
 		<body>    
 			<form action='' id='ajax_form'  method='POST'>
